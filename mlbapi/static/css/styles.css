@@ -1,0 +1,48 @@
+/* Styles for header */
+header {
+    background-color: #333; /* Dark background color */
+    color: #fff; /* Text color */
+    padding: 20px; /* Padding around header content */
+}
+
+/* Styles for h1 */
+h1 {
+    font-size: 36px; /* Larger font size for heading */
+    margin-bottom: 20px; /* Space below heading */
+}
+
+/* Styles for navigation */
+nav ul {
+    list-style-type: none; /* Remove default bullet points */
+    padding: 0; /* Remove default padding */
+}
+
+nav ul li {
+    display: inline-block; /* Display list items horizontally */
+    margin-right: 15px; /* Space between list items */
+}
+
+nav ul li a {
+    text-decoration: none; /* Remove underline from links */
+    color: #fff; /* Text color for links */
+    font-weight: bold; /* Bold font weight */
+    transition: color 0.3s ease; /* Smooth transition for text color */
+}
+
+nav ul li a:hover {
+    color: #ffcc00; /* Text color on hover */
+}
+
+/* Apply link-like styles to the game-link class */
+.game-link {
+    color: blue; /* Set the text color to blue */
+    text-decoration: underline; /* Add underline decoration */
+    cursor: pointer; /* Change cursor style to indicate clickable */
+}
+
+/* Change text color to purple when hovering over the game-link */
+.game-link:hover {
+    color: purple; /* Change text color to purple on hover */
+}
+
+

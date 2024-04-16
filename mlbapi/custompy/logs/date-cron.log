@@ -1,0 +1,305 @@
+Game played between Los Angeles Angels (Away) ID: 108 and Boston Red Sox (Home) ID: 111.
+Inning 1: Los Angeles Angels ID: 108 (0) - Boston Red Sox ID: 111 (2)
+Inning 2: Los Angeles Angels ID: 108 (1) - Boston Red Sox ID: 111 (0)
+Inning 3: Los Angeles Angels ID: 108 (1) - Boston Red Sox ID: 111 (0)
+Inning 4: Los Angeles Angels ID: 108 (0) - Boston Red Sox ID: 111 (0)
+Inning 5: Los Angeles Angels ID: 108 (0) - Boston Red Sox ID: 111 (1)
+Inning 6: Los Angeles Angels ID: 108 (0) - Boston Red Sox ID: 111 (2)
+Inning 7: Los Angeles Angels ID: 108 (0) - Boston Red Sox ID: 111 (0)
+Inning 8: Los Angeles Angels ID: 108 (1) - Boston Red Sox ID: 111 (0)
+Inning 9: Los Angeles Angels ID: 108 (1) - Boston Red Sox ID: 111 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Los 0 1 1 0 0 0 0 1 1
+Bos 2 0 0 0 1 2 0 0 0
+Home team 111 scored on 1st inning? True
+Away team 108 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Pittsburgh Pirates (Away) ID: 134 and Philadelphia Phillies (Home) ID: 143.
+Inning 1: Pittsburgh Pirates ID: 134 (0) - Philadelphia Phillies ID: 143 (0)
+Inning 2: Pittsburgh Pirates ID: 134 (0) - Philadelphia Phillies ID: 143 (0)
+Inning 3: Pittsburgh Pirates ID: 134 (0) - Philadelphia Phillies ID: 143 (1)
+Inning 4: Pittsburgh Pirates ID: 134 (1) - Philadelphia Phillies ID: 143 (0)
+Inning 5: Pittsburgh Pirates ID: 134 (0) - Philadelphia Phillies ID: 143 (1)
+Inning 6: Pittsburgh Pirates ID: 134 (5) - Philadelphia Phillies ID: 143 (0)
+Inning 7: Pittsburgh Pirates ID: 134 (0) - Philadelphia Phillies ID: 143 (0)
+Inning 8: Pittsburgh Pirates ID: 134 (1) - Philadelphia Phillies ID: 143 (0)
+Inning 9: Pittsburgh Pirates ID: 134 (2) - Philadelphia Phillies ID: 143 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Pit 0 0 0 1 0 5 0 1 2
+Phi 0 0 1 0 1 0 0 0 0
+Home team 143 scored on 1st inning? False
+Away team 134 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Milwaukee Brewers (Away) ID: 158 and Baltimore Orioles (Home) ID: 110.
+Inning 1: Milwaukee Brewers ID: 158 (1) - Baltimore Orioles ID: 110 (1)
+Inning 2: Milwaukee Brewers ID: 158 (0) - Baltimore Orioles ID: 110 (1)
+Inning 3: Milwaukee Brewers ID: 158 (1) - Baltimore Orioles ID: 110 (1)
+Inning 4: Milwaukee Brewers ID: 158 (1) - Baltimore Orioles ID: 110 (0)
+Inning 5: Milwaukee Brewers ID: 158 (0) - Baltimore Orioles ID: 110 (0)
+Inning 6: Milwaukee Brewers ID: 158 (0) - Baltimore Orioles ID: 110 (0)
+Inning 7: Milwaukee Brewers ID: 158 (1) - Baltimore Orioles ID: 110 (2)
+Inning 8: Milwaukee Brewers ID: 158 (0) - Baltimore Orioles ID: 110 (1)
+Inning 9: Milwaukee Brewers ID: 158 (0) - Baltimore Orioles ID: 110 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Mil 1 0 1 1 0 0 1 0 0
+Bal 1 1 1 0 0 0 2 1 0
+Home team 110 scored on 1st inning? True
+Away team 158 scored on 1st inning? True
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Colorado Rockies (Away) ID: 115 and Toronto Blue Jays (Home) ID: 141.
+Inning 1: Colorado Rockies ID: 115 (0) - Toronto Blue Jays ID: 141 (1)
+Inning 2: Colorado Rockies ID: 115 (0) - Toronto Blue Jays ID: 141 (0)
+Inning 3: Colorado Rockies ID: 115 (0) - Toronto Blue Jays ID: 141 (2)
+Inning 4: Colorado Rockies ID: 115 (0) - Toronto Blue Jays ID: 141 (0)
+Inning 5: Colorado Rockies ID: 115 (0) - Toronto Blue Jays ID: 141 (1)
+Inning 6: Colorado Rockies ID: 115 (0) - Toronto Blue Jays ID: 141 (0)
+Inning 7: Colorado Rockies ID: 115 (0) - Toronto Blue Jays ID: 141 (0)
+Inning 8: Colorado Rockies ID: 115 (0) - Toronto Blue Jays ID: 141 (1)
+Inning 9: Colorado Rockies ID: 115 (0) - Toronto Blue Jays ID: 141 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Col 0 0 0 0 0 0 0 0 0
+Tor 1 0 2 0 1 0 0 1 0
+Home team 141 scored on 1st inning? True
+Away team 115 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Kansas City Royals (Away) ID: 118 and New York Mets (Home) ID: 121.
+Inning 1: Kansas City Royals ID: 118 (0) - New York Mets ID: 121 (0)
+Inning 2: Kansas City Royals ID: 118 (0) - New York Mets ID: 121 (0)
+Inning 3: Kansas City Royals ID: 118 (0) - New York Mets ID: 121 (0)
+Inning 4: Kansas City Royals ID: 118 (0) - New York Mets ID: 121 (0)
+Inning 5: Kansas City Royals ID: 118 (0) - New York Mets ID: 121 (0)
+Inning 6: Kansas City Royals ID: 118 (0) - New York Mets ID: 121 (0)
+Inning 7: Kansas City Royals ID: 118 (0) - New York Mets ID: 121 (0)
+Inning 8: Kansas City Royals ID: 118 (0) - New York Mets ID: 121 (2)
+Inning 9: Kansas City Royals ID: 118 (1) - New York Mets ID: 121 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Kan 0 0 0 0 0 0 0 0 1
+New 0 0 0 0 0 0 0 2 0
+Home team 121 scored on 1st inning? False
+Away team 118 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between San Francisco Giants (Away) ID: 137 and Tampa Bay Rays (Home) ID: 139.
+Inning 1: San Francisco Giants ID: 137 (1) - Tampa Bay Rays ID: 139 (3)
+Inning 2: San Francisco Giants ID: 137 (0) - Tampa Bay Rays ID: 139 (0)
+Inning 3: San Francisco Giants ID: 137 (0) - Tampa Bay Rays ID: 139 (1)
+Inning 4: San Francisco Giants ID: 137 (0) - Tampa Bay Rays ID: 139 (3)
+Inning 5: San Francisco Giants ID: 137 (0) - Tampa Bay Rays ID: 139 (0)
+Inning 6: San Francisco Giants ID: 137 (1) - Tampa Bay Rays ID: 139 (1)
+Inning 7: San Francisco Giants ID: 137 (1) - Tampa Bay Rays ID: 139 (1)
+Inning 8: San Francisco Giants ID: 137 (0) - Tampa Bay Rays ID: 139 (0)
+Inning 9: San Francisco Giants ID: 137 (1) - Tampa Bay Rays ID: 139 (0)
+Inn:1 2 3 4 5 6 7 8 9
+San 1 0 0 0 0 1 1 0 1
+Tam 3 0 1 3 0 1 1 0 0
+Home team 139 scored on 1st inning? True
+Away team 137 scored on 1st inning? True
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Minnesota Twins (Away) ID: 142 and Detroit Tigers (Home) ID: 116.
+Inning 1: Minnesota Twins ID: 142 (0) - Detroit Tigers ID: 116 (0)
+Inning 2: Minnesota Twins ID: 142 (2) - Detroit Tigers ID: 116 (0)
+Inning 3: Minnesota Twins ID: 142 (0) - Detroit Tigers ID: 116 (0)
+Inning 4: Minnesota Twins ID: 142 (1) - Detroit Tigers ID: 116 (0)
+Inning 5: Minnesota Twins ID: 142 (0) - Detroit Tigers ID: 116 (0)
+Inning 6: Minnesota Twins ID: 142 (0) - Detroit Tigers ID: 116 (0)
+Inning 7: Minnesota Twins ID: 142 (0) - Detroit Tigers ID: 116 (0)
+Inning 8: Minnesota Twins ID: 142 (0) - Detroit Tigers ID: 116 (4)
+Inning 9: Minnesota Twins ID: 142 (0) - Detroit Tigers ID: 116 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Min 0 2 0 1 0 0 0 0 0
+Det 0 0 0 0 0 0 0 4 0
+Home team 116 scored on 1st inning? False
+Away team 142 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Atlanta Braves (Away) ID: 144 and Miami Marlins (Home) ID: 146.
+Inning 1: Atlanta Braves ID: 144 (0) - Miami Marlins ID: 146 (0)
+Inning 2: Atlanta Braves ID: 144 (1) - Miami Marlins ID: 146 (1)
+Inning 3: Atlanta Braves ID: 144 (2) - Miami Marlins ID: 146 (0)
+Inning 4: Atlanta Braves ID: 144 (2) - Miami Marlins ID: 146 (2)
+Inning 5: Atlanta Braves ID: 144 (0) - Miami Marlins ID: 146 (1)
+Inning 6: Atlanta Braves ID: 144 (0) - Miami Marlins ID: 146 (3)
+Inning 7: Atlanta Braves ID: 144 (1) - Miami Marlins ID: 146 (0)
+Inning 8: Atlanta Braves ID: 144 (0) - Miami Marlins ID: 146 (0)
+Inning 9: Atlanta Braves ID: 144 (3) - Miami Marlins ID: 146 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Atl 0 1 2 2 0 0 1 0 3
+Mia 0 1 0 2 1 3 0 0 0
+Home team 146 scored on 1st inning? False
+Away team 144 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between New York Yankees (Away) ID: 147 and Cleveland Guardians (Home) ID: 114.
+Inning 1: New York Yankees ID: 147 (0) - Cleveland Guardians ID: 114 (0)
+Inning 2: New York Yankees ID: 147 (0) - Cleveland Guardians ID: 114 (0)
+Inning 3: New York Yankees ID: 147 (3) - Cleveland Guardians ID: 114 (2)
+Inning 4: New York Yankees ID: 147 (1) - Cleveland Guardians ID: 114 (0)
+Inning 5: New York Yankees ID: 147 (0) - Cleveland Guardians ID: 114 (2)
+Inning 6: New York Yankees ID: 147 (0) - Cleveland Guardians ID: 114 (0)
+Inning 7: New York Yankees ID: 147 (0) - Cleveland Guardians ID: 114 (0)
+Inning 8: New York Yankees ID: 147 (0) - Cleveland Guardians ID: 114 (1)
+Inning 9: New York Yankees ID: 147 (1) - Cleveland Guardians ID: 114 (0)
+Inning 10: New York Yankees ID: 147 (2) - Cleveland Guardians ID: 114 (3)
+Inn:1 2 3 4 5 6 7 8 9 10
+New 0 0 3 1 0 0 0 0 1 2
+Cle 0 0 2 0 2 0 0 1 0 3
+Home team 114 scored on 1st inning? False
+Away team 147 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Texas Rangers (Away) ID: 140 and Houston Astros (Home) ID: 117.
+Inning 1: Texas Rangers ID: 140 (0) - Houston Astros ID: 117 (1)
+Inning 2: Texas Rangers ID: 140 (0) - Houston Astros ID: 117 (0)
+Inning 3: Texas Rangers ID: 140 (0) - Houston Astros ID: 117 (1)
+Inning 4: Texas Rangers ID: 140 (1) - Houston Astros ID: 117 (3)
+Inning 5: Texas Rangers ID: 140 (1) - Houston Astros ID: 117 (0)
+Inning 6: Texas Rangers ID: 140 (0) - Houston Astros ID: 117 (0)
+Inning 7: Texas Rangers ID: 140 (0) - Houston Astros ID: 117 (3)
+Inning 8: Texas Rangers ID: 140 (0) - Houston Astros ID: 117 (0)
+Inning 9: Texas Rangers ID: 140 (3) - Houston Astros ID: 117 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Tex 0 0 0 1 1 0 0 0 3
+Hou 1 0 1 3 0 0 3 0 0
+Home team 117 scored on 1st inning? True
+Away team 140 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Cincinnati Reds (Away) ID: 113 and Chicago White Sox (Home) ID: 145.
+Inning 1: Cincinnati Reds ID: 113 (0) - Chicago White Sox ID: 145 (0)
+Inning 2: Cincinnati Reds ID: 113 (0) - Chicago White Sox ID: 145 (0)
+Inning 3: Cincinnati Reds ID: 113 (4) - Chicago White Sox ID: 145 (0)
+Inning 4: Cincinnati Reds ID: 113 (0) - Chicago White Sox ID: 145 (2)
+Inning 5: Cincinnati Reds ID: 113 (2) - Chicago White Sox ID: 145 (0)
+Inning 6: Cincinnati Reds ID: 113 (0) - Chicago White Sox ID: 145 (0)
+Inning 7: Cincinnati Reds ID: 113 (4) - Chicago White Sox ID: 145 (2)
+Inning 8: Cincinnati Reds ID: 113 (0) - Chicago White Sox ID: 145 (0)
+Inning 9: Cincinnati Reds ID: 113 (1) - Chicago White Sox ID: 145 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Cin 0 0 4 0 2 0 4 0 1
+Chi 0 0 0 2 0 0 2 0 0
+Home team 145 scored on 1st inning? False
+Away team 113 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Washington Nationals (Away) ID: 120 and Oakland Athletics (Home) ID: 133.
+Inning 1: Washington Nationals ID: 120 (0) - Oakland Athletics ID: 133 (0)
+Inning 2: Washington Nationals ID: 120 (0) - Oakland Athletics ID: 133 (0)
+Inning 3: Washington Nationals ID: 120 (2) - Oakland Athletics ID: 133 (0)
+Inning 4: Washington Nationals ID: 120 (1) - Oakland Athletics ID: 133 (0)
+Inning 5: Washington Nationals ID: 120 (1) - Oakland Athletics ID: 133 (1)
+Inning 6: Washington Nationals ID: 120 (2) - Oakland Athletics ID: 133 (6)
+Inning 7: Washington Nationals ID: 120 (0) - Oakland Athletics ID: 133 (0)
+Inning 8: Washington Nationals ID: 120 (0) - Oakland Athletics ID: 133 (0)
+Inning 9: Washington Nationals ID: 120 (0) - Oakland Athletics ID: 133 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Was 0 0 2 1 1 2 0 0 0
+Oak 0 0 0 0 1 6 0 0 0
+Home team 133 scored on 1st inning? False
+Away team 120 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between Chicago Cubs (Away) ID: 112 and Seattle Mariners (Home) ID: 136.
+Inning 1: Chicago Cubs ID: 112 (1) - Seattle Mariners ID: 136 (0)
+Inning 2: Chicago Cubs ID: 112 (0) - Seattle Mariners ID: 136 (0)
+Inning 3: Chicago Cubs ID: 112 (0) - Seattle Mariners ID: 136 (0)
+Inning 4: Chicago Cubs ID: 112 (2) - Seattle Mariners ID: 136 (0)
+Inning 5: Chicago Cubs ID: 112 (0) - Seattle Mariners ID: 136 (0)
+Inning 6: Chicago Cubs ID: 112 (0) - Seattle Mariners ID: 136 (2)
+Inning 7: Chicago Cubs ID: 112 (0) - Seattle Mariners ID: 136 (0)
+Inning 8: Chicago Cubs ID: 112 (0) - Seattle Mariners ID: 136 (0)
+Inning 9: Chicago Cubs ID: 112 (0) - Seattle Mariners ID: 136 (0)
+Inn:1 2 3 4 5 6 7 8 9
+Chi 1 0 0 2 0 0 0 0 0
+Sea 0 0 0 0 0 2 0 0 0
+Home team 136 scored on 1st inning? False
+Away team 112 scored on 1st inning? True
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between St. Louis Cardinals (Away) ID: 138 and Arizona Diamondbacks (Home) ID: 109.
+Inning 1: St. Louis Cardinals ID: 138 (0) - Arizona Diamondbacks ID: 109 (0)
+Inning 2: St. Louis Cardinals ID: 138 (0) - Arizona Diamondbacks ID: 109 (0)
+Inning 3: St. Louis Cardinals ID: 138 (0) - Arizona Diamondbacks ID: 109 (0)
+Inning 4: St. Louis Cardinals ID: 138 (0) - Arizona Diamondbacks ID: 109 (0)
+Inning 5: St. Louis Cardinals ID: 138 (0) - Arizona Diamondbacks ID: 109 (5)
+Inning 6: St. Louis Cardinals ID: 138 (0) - Arizona Diamondbacks ID: 109 (0)
+Inning 7: St. Louis Cardinals ID: 138 (0) - Arizona Diamondbacks ID: 109 (0)
+Inning 8: St. Louis Cardinals ID: 138 (0) - Arizona Diamondbacks ID: 109 (0)
+Inning 9: St. Louis Cardinals ID: 138 (0) - Arizona Diamondbacks ID: 109 (0)
+Inn:1 2 3 4 5 6 7 8 9
+St. 0 0 0 0 0 0 0 0 0
+Ari 0 0 0 0 5 0 0 0 0
+Home team 109 scored on 1st inning? False
+Away team 138 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Game played between San Diego Padres (Away) ID: 135 and Los Angeles Dodgers (Home) ID: 119.
+Inning 1: San Diego Padres ID: 135 (0) - Los Angeles Dodgers ID: 119 (0)
+Inning 2: San Diego Padres ID: 135 (0) - Los Angeles Dodgers ID: 119 (0)
+Inning 3: San Diego Padres ID: 135 (0) - Los Angeles Dodgers ID: 119 (0)
+Inning 4: San Diego Padres ID: 135 (1) - Los Angeles Dodgers ID: 119 (3)
+Inning 5: San Diego Padres ID: 135 (0) - Los Angeles Dodgers ID: 119 (0)
+Inning 6: San Diego Padres ID: 135 (2) - Los Angeles Dodgers ID: 119 (0)
+Inning 7: San Diego Padres ID: 135 (3) - Los Angeles Dodgers ID: 119 (0)
+Inning 8: San Diego Padres ID: 135 (0) - Los Angeles Dodgers ID: 119 (0)
+Inning 9: San Diego Padres ID: 135 (0) - Los Angeles Dodgers ID: 119 (0)
+Inn:1 2 3 4 5 6 7 8 9
+San 0 0 0 1 0 2 3 0 0
+Los 0 0 0 3 0 0 0 0 0
+Home team 119 scored on 1st inning? False
+Away team 135 scored on 1st inning? False
+Game date: 2024-04-14
+Connected to MySQL database!
+Game data inserted successfully into the database!
+MySQL connection closed.
+Scrapping data for 2024-04-15
+URL:  https://statsapi.mlb.com/api/v1/schedule/games/?sportId=1&startDate=2024-04-14&endDate=2024-04-14
+Extracted gamePk values:
+[746975, 745595, 747056, 744952, 745841, 745113, 746492, 746079, 746648, 746404, 746810, 745681, 745271, 747216, 746164]
+Processing game ID: 746975
+Processing game ID: 745595
+Processing game ID: 747056
+Processing game ID: 744952
+Processing game ID: 745841
+Processing game ID: 745113
+Processing game ID: 746492
+Processing game ID: 746079
+Processing game ID: 746648
+Processing game ID: 746404
+Processing game ID: 746810
+Processing game ID: 745681
+Processing game ID: 745271
+Processing game ID: 747216
+Processing game ID: 746164
